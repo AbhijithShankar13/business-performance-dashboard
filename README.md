@@ -66,5 +66,17 @@ The goal is to present data in a simple, clear, and decision-friendly way.
 - Prophet (Forecasting)
 
 ---
+## ▶️ How to Run Locally
 
-## 📂 Project Structure
+```bash
+# Clone repository
+git clone https://github.com/YOUR_USERNAME/business-performance-dashboard.git
+
+# Move into project folder
+cd business-performance-dashboard
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run Streamlit app
+streamlit run streamlit_app/app.py
