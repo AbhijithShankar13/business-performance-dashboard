@@ -6,8 +6,6 @@ This project focuses on making business data easy to understand for non-technica
 
 ---
 
-## 🚀 Live Demo
-https://customer-churn-revenue-risk-analysis-8fhtdagukyzaghkfbyvhqt.streamlit.app/
 
 ---
 
@@ -66,7 +64,7 @@ The goal is to present data in a simple, clear, and decision-friendly way.
 - Prophet (Forecasting)
 
 ---
-## ▶️ How to Run Locally
+## How to Run Locally
 
 ```bash
 # Clone repository
