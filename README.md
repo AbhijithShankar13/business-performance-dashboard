@@ -5,8 +5,7 @@ An interactive data analytics dashboard built with Streamlit and Plotly to analy
 This project focuses on making business data easy to understand for non-technical users through clear visualizations and simple insights.
 
 ---
-Live Demo:
-https://business-performance-dashboard-r5lviygzxdcucnpukcgmla.streamlit.app/
+-- Live Demo: https://business-performance-dashboard-r5lviygzxdcucnpukcgmla.streamlit.app/
 ---
 
 ## 📌 Project Overview
