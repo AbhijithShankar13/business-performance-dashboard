@@ -1,4 +1,4 @@
-# 📊 Business Performance Dashboard
+# Business Performance Dashboard
 
 An interactive data analytics dashboard built with Streamlit and Plotly to analyze business performance across sales, profit, products, and regions.
 
@@ -8,7 +8,7 @@ This project focuses on making business data easy to understand for non-technica
 ### Live Demo: https://business-performance-dashboard-r5lviygzxdcucnpukcgmla.streamlit.app/
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This dashboard helps users explore and understand business performance through:
 
@@ -23,30 +23,30 @@ The goal is to present data in a simple, clear, and decision-friendly way.
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
-### 📊 Interactive Dashboard
+### Interactive Dashboard
 - Dynamic filters for Region and Category
 - Real-time updates based on user selection
 
-### 🎯 What-If Analysis
+### What-If Analysis
 - Simulate impact of discount changes on profit
 - Helps understand pricing sensitivity
 
-### 📦 Product Explorer
+### Product Explorer
 - Drill down into product categories
 - Identify top and low-performing products
 
-### 🌍 Regional Insights
+### Regional Insights
 - Compare sales across different regions
 
-### 📈 Sales Trends
+### Sales Trends
 - Visualize historical sales performance
 
-### 🔮 Forecasting
+### Forecasting
 - Predict future sales trends using time series modeling
 
-### 🧾 Hidden Insights
+### Hidden Insights
 - Automatically highlights business risks like:
   - Revenue dependency on few products
   - Uneven regional performance
@@ -54,7 +54,7 @@ The goal is to present data in a simple, clear, and decision-friendly way.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
