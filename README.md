@@ -68,8 +68,7 @@ The goal is to present data in a simple, clear, and decision-friendly way.
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/business-performance-dashboard.git
-
+git clone https://github.com/AbhijithShankar13/business-performance-dashboard.git
 # Move into project folder
 cd business-performance-dashboard
 
